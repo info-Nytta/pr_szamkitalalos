@@ -7,4 +7,4 @@
 			if ($min!=$max) echo "<span class='enged szam'> ".$max." </span>";
 			for ($i=100; $i>$max; $i--) echo "<span class='tilt jel'>x</span>";
 			?>
-			</p>
+		</p>

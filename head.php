@@ -17,7 +17,7 @@
 		</div>
 	</header>
 	<nav>
-		<a href='./?jatek=gep'>Gép gondol</a><span class='valaszto'> | </span>
-		<a href='./?jatek=jatekos'>Játékos gondol</a>
+		<a href='./?jatek=gg'>Gép gondol</a><span class='valaszto'> | </span>
+		<a href='./?jatek=jg'>Játékos gondol</a>
 	</nav>
 	<main>

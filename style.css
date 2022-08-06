@@ -62,12 +62,14 @@ span.tilt {
 span.enged {
 	color:green; }
 span.jel {
-	display:none;}
+	display:none;
+	font-size:80%;
+}
 span.jel-kicsi {
 	color:green;
 }
 span.szam {
-	font-size:120%;
+	font-size:110%;
 	 }
 #logo img {
 	float:left;
