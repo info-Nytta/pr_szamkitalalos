@@ -59,6 +59,7 @@ else
 			<input type='hidden' name='tipp' value='<?php echo $tipp; ?>'>
 			<input type='hidden' name='min' value='<?php echo $min; ?>'>
 			<input type='hidden' name='max' value='<?php echo $max; ?>'>
+            <input type='hidden' name='jatek' value='<?php echo $jatekos;?>'>
 			<input type='hidden' name='tippek' value='<?php echo $tippek; ?>'>
 
             <?php echo $valasztas; ?>
